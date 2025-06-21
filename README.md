@@ -122,7 +122,7 @@ Here are the key tables used:
 
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/developervikki/digital-library-portal.git
+   git clone digital-library-portal.git
    cd digital-library-portal
    ```
 
@@ -184,14 +184,6 @@ digital-library-portal/
 ├── login.php
 ├── register.php
 └── README.md
-```
-
----
-
-## 📸 Screenshots
-
-
-
 ---
 
 ## 📝 License
@@ -202,5 +194,6 @@ This project is open source. Free to use and modify. Attribution appreciated!
 
 ## 👨‍💻 Author
 
-Built by **Vikash Yadav**  
+Built by **Vikash Yadav**
+https://github.com/developervikki/
 
