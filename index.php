@@ -99,18 +99,23 @@
    
   <div class="w-full max-w-7xl flex flex-col lg:flex-row justify-center items-center gap-8">
     
+
+  <div class="bg-white shadow-xl rounded-xl p-4 w-full max-w-sm flex flex-col items-center">
+      <img src="assets/img/seat.jpeg" alt="Library Resource 2" class="w-full h-48 object-cover rounded-lg mb-4">
+      <h3 class="text-xl font-semibold text-[#048C9E]">
+  <a href="./login.php" class="inline-block bg-[#048C9E] text-white px-5 py-2 rounded-lg shadow-md hover:bg-[#036d79] transition">
+    Book Now
+  </a>
+</h3>
+
+      <p class="text-gray-600 text-sm mt-2">Secure your place in the library with our easy seat booking system — no more searching, just studying.</p>
+    </div>
     
-    <div class="bg-white shadow-xl rounded-xl p-4 w-full max-w-sm flex flex-col items-center">
-      <img src="assets/img/book.jpeg" alt="Library Resource 1" class="w-full h-48 object-cover rounded-lg mb-4">
+
+     <div class="bg-white shadow-xl rounded-xl p-4 w-full max-w-sm flex flex-col items-center">
+      <img src="assets/img/l2.jpeg" alt="Library Resource 1" class="w-full h-48 object-cover rounded-lg mb-4">
       <h3 class="text-xl font-semibold text-[#048C9E]">Library</h3>
       <p class="text-gray-600 text-sm mt-2">Chill with cool AC, soft fans, and a calm vibe — your perfect corner for books and beyond.</p>
-    </div>
-
-     
-    <div class="bg-white shadow-xl rounded-xl p-4 w-full max-w-sm flex flex-col items-center">
-      <img src="assets/img/journals.jpeg" alt="Library Resource 2" class="w-full h-48 object-cover rounded-lg mb-4">
-      <h3 class="text-xl font-semibold text-[#048C9E]">Journals</h3>
-      <p class="text-gray-600 text-sm mt-2">Access the latest academic journals and research publications.</p>
     </div>
  
     <div class="bg-white shadow-xl rounded-xl p-4 w-full max-w-sm flex flex-col items-center">
